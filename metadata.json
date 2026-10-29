@@ -1,0 +1,6 @@
+{
+  "name": "Ember & Spice | Contemporary Dining Concept",
+  "description": "A premium contemporary restaurant portfolio demonstration featuring wood-fired dining, editorial culinary photography, and readable seasonal menus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
